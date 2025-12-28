@@ -15,14 +15,14 @@ Typy kont:
 Każde konto implementuje własną logikę wpłat i wypłat.
 
 ## Struktura katalogów
-BankSystem/
-├── BankSystem.csproj
-├── Program.cs
-└── Konto/
-    ├── KontoBankowe.cs
-    ├── KontoOsobiste.cs
-    ├── KontoOszczednosciowe.cs
-    └── KontoKredytowe.cs
+BankSystem/  
+├── BankSystem.csproj  
+├── Program.cs  
+└── Konto/  
+‎ ‎‎ ‎  ├── KontoBankowe.cs  
+‎ ‎‎ ‎  ├── KontoOsobiste.cs  
+‎ ‎‎ ‎  ├── KontoOszczednosciowe.cs  
+‎ ‎‎ ‎  └── KontoKredytowe.cs  
 
 ## Kompilacja i uruchomienie
 1. Sklonować repozytorium na swój komputer
